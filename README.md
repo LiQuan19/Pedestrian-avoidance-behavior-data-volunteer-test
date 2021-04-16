@@ -1,1 +1,2 @@
 # Pedestrian-avoidance-behavior-dataset
+ This study proposes an experimental framework for extracting typical vivo pedestrian behaviour in motor vehicle conflicts. When the volunteers, i.e., pedestrians, entered near-real immersive virtual reality (VR) traffic scenarios. A well-controlled dangerous traffic scene was generated as a visual stimulus to pedestrians. Real-time biomechanical signals of the subjects were recorded during the subsequent natural reactions. 
