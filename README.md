@@ -13,5 +13,6 @@ https://pan.baidu.com/s/1Ypu1G537Iin37UAAUZ5crQ , password:vy54
 
 ## Reference
 Nie, B., Li, Q., Gan, S., Xing, B., Huang, Y., Li, S.E., 2021. Safety envelope of pedestrians upon motor vehicle conflicts identified via active avoidance behaviour. Scientific Reports 11 (1), 3996.
+
 Li, Q., Zhou, Q., Chen, W., Deng, G., Wei, X., Zhang, F., Li, S.E., Nie, B., 2020. In vivo pedestrian behaviour upon motor vehicle conflicts: Experimental framework and initial results. Proceedings of IRCOBI Asia Conference. Beijing, China.
 
