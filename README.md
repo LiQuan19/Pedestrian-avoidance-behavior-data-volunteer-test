@@ -17,6 +17,7 @@ For each experiment case that the file includes three data files.Take “Subj001
 1)	The “emg” file includes the EMG data in the experiment. Among, the “MVC_test” file includes the EEG data of lower limbs’ muscles in MVC test. The “muscle_MVC.xls” is the calculated EMG data under the state of muscle maximum voluntary contraction (MVC). The “EMG_4550-4700ms.xls” is the time history of EMG signal in the process of avoidance (bandpass:20-500Hz,smoothed with a 25 ms Root Mean Square window), and it corresponds to the kinematics data in the “motion” file. 
 2)	The “motion” file is the kinematics data of subjects. You can view the pedestrian kinematics by using the OpenSim software to run the “Full Body Model” and call “EP_0001_PreTest_run2_4550-4700.trc” file (model reference: SimTK: Full Body Model for use in Dynamic Simulations of Human Gait: Downloads). Of course, you can use other human musculoskeletal dynamics software to view the data, such as Anybody, but the name of the corresponding marker point needs to be modified.
 3)	The “videos” file is the recording video during the experiment that includes the in-lab and VR environment videos. 
+4)	For the files with the suffix "rawdata", the subjects did not notice the coming vehicle. We only give raw data.
 
 ## Reference
 Nie, B., Li, Q., Gan, S., Xing, B., Huang, Y., Li, S.E., 2021. Safety envelope of pedestrians upon motor vehicle conflicts identified via active avoidance behaviour. Scientific Reports 11 (1), 3996.
